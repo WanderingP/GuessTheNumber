@@ -4,7 +4,9 @@ Small game where a user is asked to guess a number
 
 
 Guess the number
+
 Version 1.1 
+
 Author Liarra Sims
 
 This game requires repeated input. Please use a complier such as netbeans to play the game fully!
